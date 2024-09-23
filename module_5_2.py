@@ -14,9 +14,7 @@ class House:
 
 h1 = House('ЖК Горский', 18)
 h2 = House('Домик в деревне', 2)
-
 print(str(h1))
 print(str(h2))
-
 print(len(h1))
 print(len(h2))
